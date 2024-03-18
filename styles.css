@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: white;
+    font-family: 'Noto Sans TC', sans-serif;
+    p
+
+  }
+  h1{
+    color: orange;
+  }
+  h2{
+    color: white;
+  }
+  .bg2{
+    background-image: url(" ")
+    background-attachment: fixed;
+
+
+    height: 1200px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background size: cover;
+   }
+   p{
+    text-indent: 30px;
+    text-align: left;
+    }
+
+    .container {
+      height: 200px;
+      position: relative;
+      border: 3px solid green;
+    }
+
+    .vertical-center {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+
+
+
+
+
